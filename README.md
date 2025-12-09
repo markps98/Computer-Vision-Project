@@ -3,6 +3,8 @@
 This project provides a pipeline for downloading and processing the **SoccerNet Tracking** dataset for use in object detection and multi-object tracking tasks. It leverages **YOLO** (via `ultralytics`) and **DeepSORT** for player and ball tracking.
 
 ---
+## Screenshots
+<img alt="image" src="https://github.com/user-attachments/assets/00f8b59c-e348-415b-9d3a-3ad5908f4570" />
 
 ## Features
 
@@ -72,3 +74,4 @@ SoccerNet opencv-python ultralytics scikit-learn deep-sort-realtime numpy
 * Mark Ssenoga
 
 ---
+
